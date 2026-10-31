@@ -1,0 +1,10 @@
+{
+  "name": "genpark-personal-agent-glycemic-load-macro-balancer-skill",
+  "version": "1.0.0",
+  "description": "Personal Agent Glycemic Load Macro Balancer - Zero-dependency meal glycemic index/load aggregator, macronutrient fat/protein buffering modeler, and post-prandial cognitive crash probability forecaster.",
+  "tools": [
+    "calculate_meal_glycemic_load_and_buffering",
+    "predict_postprandial_cognitive_stability",
+    "recommend_macronutrient_stabilizer"
+  ]
+}
